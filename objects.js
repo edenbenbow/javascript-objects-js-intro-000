@@ -1,5 +1,4 @@
 var playlist = {
-  Cher: "Turn back time"
   Oasis: "Live forever"
 }
 
