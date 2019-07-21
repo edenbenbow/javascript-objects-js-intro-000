@@ -1,5 +1,5 @@
 var playlist = {
-  Oasis: "Live forever"
+  Phil Ochs: "Slowdive"
 }
 
 var updatePlaylist = function(playlist, artistName, songTitle) {
